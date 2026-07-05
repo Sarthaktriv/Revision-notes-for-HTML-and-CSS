@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style:double;
+}
+body{
+    background-color:aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main li{
+    text-decoration: underline;
+    text-decoration-thickness: 1.5px;
+}
+#S{
+    text-decoration: underline;
+}
+.note{
+    text-decoration: underline;
+    text-decoration-thickness: 2.5px;
+    text-decoration-color: red;
+}
+.H{
+    font-style: italic;
+    font-weight: bold;
+    color:blue;
+}
+.Topic{
+    text-decoration: underline;
+    text-decoration-thickness: 2.5px;
+}
+a:hover{
+    color: red;
+}
+a:Active{
+    color:pink;
+}
+#C{
+    font-style:italic;
+}
+.Subtopic{
+    text-decoration: underline;
+    text-decoration-thickness: 2.5px;
+}
+.inline{
+    display: inline;
+}
+.size{
+    font-size:14px;
+}
+#bold{
+    font-weight: bold;
+}
+.CS{
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: 900;
+    color:blueviolet;
+}
+.bold{
+    font-weight: bold;
+}
